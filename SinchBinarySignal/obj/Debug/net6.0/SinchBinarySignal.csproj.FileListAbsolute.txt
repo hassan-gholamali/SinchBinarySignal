@@ -1,0 +1,12 @@
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\bin\Debug\net6.0\SinchBinarySignal.deps.json
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\bin\Debug\net6.0\SinchBinarySignal.dll
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\bin\Debug\net6.0\SinchBinarySignal.pdb
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\SinchBinarySignal.csproj.AssemblyReference.cache
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\SinchBinarySignal.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\SinchBinarySignal.AssemblyInfoInputs.cache
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\SinchBinarySignal.AssemblyInfo.cs
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\SinchBinarySignal.csproj.CoreCompileInputs.cache
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\SinchBinarySignal.dll
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\refint\SinchBinarySignal.dll
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\SinchBinarySignal.pdb
+C:\My Files\Code\Sinch\SinchBinarySignal\SinchBinarySignal\obj\Debug\net6.0\ref\SinchBinarySignal.dll
